@@ -1,0 +1,3 @@
+.venv/
+facial_data/mario
+facial_data/processed_images/*
